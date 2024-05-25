@@ -1,4 +1,4 @@
-# Hope for Strays (Animal NGO Webpage)
+# Hope for Strays (Animal NGO Webpage) - MERN stack Project
 Feel free to suggest any updates and submit a pull request
 
 ## Purpose
